@@ -1,0 +1,13 @@
+[package]
+name = "A"
+version = "0.1.0"
+authors = ["Andrew Kubera <andrewkubera@gmail.com>"]
+
+[dependencies.B]
+path = "../B"
+
+[dependencies.C]
+path = "../C"
+
+[dependencies.animal]
+path = "../animal"
